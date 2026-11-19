@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="game/game.csproj" Id="b43118c2-9515-4463-8a1f-abbd71eb16e7" />
+  <Project Path="Matrizza/Matrizza.csproj" Id="16a1b317-b3c4-4adf-ad8f-2216323d305c" />
+  <Project Path="PISPraktika1/PISPraktika1.csproj" Id="3db81596-d55e-4643-92f0-c54a2c370295" />
+</Solution>
