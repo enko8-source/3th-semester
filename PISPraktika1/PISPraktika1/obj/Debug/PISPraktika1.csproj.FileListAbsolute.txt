@@ -1,0 +1,7 @@
+C:\Users\Елизавета\source\repos\PISPraktika1\PISPraktika1\bin\Debug\PISPraktika1.exe.config
+C:\Users\Елизавета\source\repos\PISPraktika1\PISPraktika1\bin\Debug\PISPraktika1.exe
+C:\Users\Елизавета\source\repos\PISPraktika1\PISPraktika1\bin\Debug\PISPraktika1.pdb
+C:\Users\Елизавета\source\repos\PISPraktika1\PISPraktika1\obj\Debug\PISPraktika1.csproj.AssemblyReference.cache
+C:\Users\Елизавета\source\repos\PISPraktika1\PISPraktika1\obj\Debug\PISPraktika1.csproj.CoreCompileInputs.cache
+C:\Users\Елизавета\source\repos\PISPraktika1\PISPraktika1\obj\Debug\PISPraktika1.exe
+C:\Users\Елизавета\source\repos\PISPraktika1\PISPraktika1\obj\Debug\PISPraktika1.pdb
