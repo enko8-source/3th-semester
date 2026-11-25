@@ -49,6 +49,7 @@ namespace PISPraktika1
                 else if (choice == "3")
                 {
                     Listing(lessons);
+                    
                 }
 
                 else if (choice == "4")
@@ -134,8 +135,42 @@ namespace PISPraktika1
                 default:
                     throw new Exception("Неизвестный тип: " + type);
             }
+
+          
         }
 
-        
+        static int Numb(List<Lesson> lessons)
+        {
+            int count = 0;
+
+            DateTime minDate = lessons[0].Date;
+            DateTime maxDate = lessons[0].Date;
+            for (int i = 0; i < lessons.Count; i++)
+            {
+                if (lessons[i].Date < minDate)
+                {
+                    minDate = lessons[i].Date;
+                }
+
+                if (lessons[i].Date < maxDate)
+                {
+                    maxDate = lessons[i].Date;
+                }
+            }
+
+            int daysCount = 0;
+            for (DateTime date = minDate; date <= maxDate; date=date.AddDays(1))
+            {
+                daysCount++;
+                for (int d = 0; d < lessons.Count; d++)
+                {
+                    if (lessons[d].Date==date)
+                    {
+                        count++;
+                    }
+                }
+            }
+            return daysCount - count;
+        }
     }
 }
