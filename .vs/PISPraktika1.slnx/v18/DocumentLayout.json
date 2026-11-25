@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0415\u043B\u0438\u0437\u0430\u0432\u0435\u0442\u0430\\source\\repos\\PISPraktika1 \u2014 \u043A\u043E\u043F\u0438\u044F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B43118C2-9515-4463-8A1F-ABBD71EB16E7}|game\\game.csproj|c:\\users\\\u0435\u043B\u0438\u0437\u0430\u0432\u0435\u0442\u0430\\source\\repos\\pispraktika1 \u2014 \u043A\u043E\u043F\u0438\u044F\\game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B43118C2-9515-4463-8A1F-ABBD71EB16E7}|game\\game.csproj|solutionrelative:game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B43118C2-9515-4463-8A1F-ABBD71EB16E7}|game\\game.csproj|c:\\users\\\u0435\u043B\u0438\u0437\u0430\u0432\u0435\u0442\u0430\\source\\repos\\pispraktika1 \u2014 \u043A\u043E\u043F\u0438\u044F\\game\\step.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B43118C2-9515-4463-8A1F-ABBD71EB16E7}|game\\game.csproj|solutionrelative:game\\step.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B43118C2-9515-4463-8A1F-ABBD71EB16E7}|game\\game.csproj|c:\\users\\\u0435\u043B\u0438\u0437\u0430\u0432\u0435\u0442\u0430\\source\\repos\\pispraktika1 \u2014 \u043A\u043E\u043F\u0438\u044F\\game\\level.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B43118C2-9515-4463-8A1F-ABBD71EB16E7}|game\\game.csproj|solutionrelative:game\\level.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B43118C2-9515-4463-8A1F-ABBD71EB16E7}|game\\game.csproj|c:\\users\\\u0435\u043B\u0438\u0437\u0430\u0432\u0435\u0442\u0430\\source\\repos\\pispraktika1 \u2014 \u043A\u043E\u043F\u0438\u044F\\game\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B43118C2-9515-4463-8A1F-ABBD71EB16E7}|game\\game.csproj|solutionrelative:game\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B43118C2-9515-4463-8A1F-ABBD71EB16E7}|game\\game.csproj|c:\\users\\\u0435\u043B\u0438\u0437\u0430\u0432\u0435\u0442\u0430\\source\\repos\\pispraktika1 \u2014 \u043A\u043E\u043F\u0438\u044F\\game\\torch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B43118C2-9515-4463-8A1F-ABBD71EB16E7}|game\\game.csproj|solutionrelative:game\\torch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B43118C2-9515-4463-8A1F-ABBD71EB16E7}|game\\game.csproj|c:\\users\\\u0435\u043B\u0438\u0437\u0430\u0432\u0435\u0442\u0430\\source\\repos\\pispraktika1 \u2014 \u043A\u043E\u043F\u0438\u044F\\game\\renderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B43118C2-9515-4463-8A1F-ABBD71EB16E7}|game\\game.csproj|solutionrelative:game\\renderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B43118C2-9515-4463-8A1F-ABBD71EB16E7}|game\\game.csproj|c:\\users\\\u0435\u043B\u0438\u0437\u0430\u0432\u0435\u0442\u0430\\source\\repos\\pispraktika1 \u2014 \u043A\u043E\u043F\u0438\u044F\\game\\spider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B43118C2-9515-4463-8A1F-ABBD71EB16E7}|game\\game.csproj|solutionrelative:game\\spider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B43118C2-9515-4463-8A1F-ABBD71EB16E7}|game\\game.csproj|c:\\users\\\u0435\u043B\u0438\u0437\u0430\u0432\u0435\u0442\u0430\\source\\repos\\pispraktika1 \u2014 \u043A\u043E\u043F\u0438\u044F\\game\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B43118C2-9515-4463-8A1F-ABBD71EB16E7}|game\\game.csproj|solutionrelative:game\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Step.txt",
+              "DocumentMoniker": "C:\\Users\\\u0415\u043B\u0438\u0437\u0430\u0432\u0435\u0442\u0430\\source\\repos\\PISPraktika1 \u2014 \u043A\u043E\u043F\u0438\u044F\\game\\Step.txt",
+              "RelativeDocumentMoniker": "game\\Step.txt",
+              "ToolTip": "C:\\Users\\\u0415\u043B\u0438\u0437\u0430\u0432\u0435\u0442\u0430\\source\\repos\\PISPraktika1 \u2014 \u043A\u043E\u043F\u0438\u044F\\game\\Step.txt",
+              "RelativeToolTip": "game\\Step.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-10-15T05:31:30.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Torch.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u043B\u0438\u0437\u0430\u0432\u0435\u0442\u0430\\source\\repos\\PISPraktika1 \u2014 \u043A\u043E\u043F\u0438\u044F\\game\\Torch.cs",
+              "RelativeDocumentMoniker": "game\\Torch.cs",
+              "ToolTip": "C:\\Users\\\u0415\u043B\u0438\u0437\u0430\u0432\u0435\u0442\u0430\\source\\repos\\PISPraktika1 \u2014 \u043A\u043E\u043F\u0438\u044F\\game\\Torch.cs",
+              "RelativeToolTip": "game\\Torch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T05:15:16.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u043B\u0438\u0437\u0430\u0432\u0435\u0442\u0430\\source\\repos\\PISPraktika1 \u2014 \u043A\u043E\u043F\u0438\u044F\\game\\Player.cs",
+              "RelativeDocumentMoniker": "game\\Player.cs",
+              "ToolTip": "C:\\Users\\\u0415\u043B\u0438\u0437\u0430\u0432\u0435\u0442\u0430\\source\\repos\\PISPraktika1 \u2014 \u043A\u043E\u043F\u0438\u044F\\game\\Player.cs",
+              "RelativeToolTip": "game\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T07:36:19.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "level.txt",
+              "DocumentMoniker": "C:\\Users\\\u0415\u043B\u0438\u0437\u0430\u0432\u0435\u0442\u0430\\source\\repos\\PISPraktika1 \u2014 \u043A\u043E\u043F\u0438\u044F\\game\\level.txt",
+              "RelativeDocumentMoniker": "game\\level.txt",
+              "ToolTip": "C:\\Users\\\u0415\u043B\u0438\u0437\u0430\u0432\u0435\u0442\u0430\\source\\repos\\PISPraktika1 \u2014 \u043A\u043E\u043F\u0438\u044F\\game\\level.txt",
+              "RelativeToolTip": "game\\level.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-10-08T08:21:04.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Spider.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u043B\u0438\u0437\u0430\u0432\u0435\u0442\u0430\\source\\repos\\PISPraktika1 \u2014 \u043A\u043E\u043F\u0438\u044F\\game\\Spider.cs",
+              "RelativeDocumentMoniker": "game\\Spider.cs",
+              "ToolTip": "C:\\Users\\\u0415\u043B\u0438\u0437\u0430\u0432\u0435\u0442\u0430\\source\\repos\\PISPraktika1 \u2014 \u043A\u043E\u043F\u0438\u044F\\game\\Spider.cs",
+              "RelativeToolTip": "game\\Spider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T08:13:52.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Renderer.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u043B\u0438\u0437\u0430\u0432\u0435\u0442\u0430\\source\\repos\\PISPraktika1 \u2014 \u043A\u043E\u043F\u0438\u044F\\game\\Renderer.cs",
+              "RelativeDocumentMoniker": "game\\Renderer.cs",
+              "ToolTip": "C:\\Users\\\u0415\u043B\u0438\u0437\u0430\u0432\u0435\u0442\u0430\\source\\repos\\PISPraktika1 \u2014 \u043A\u043E\u043F\u0438\u044F\\game\\Renderer.cs",
+              "RelativeToolTip": "game\\Renderer.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvyIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T07:45:37.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Level.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u043B\u0438\u0437\u0430\u0432\u0435\u0442\u0430\\source\\repos\\PISPraktika1 \u2014 \u043A\u043E\u043F\u0438\u044F\\game\\Level.cs",
+              "RelativeDocumentMoniker": "game\\Level.cs",
+              "ToolTip": "C:\\Users\\\u0415\u043B\u0438\u0437\u0430\u0432\u0435\u0442\u0430\\source\\repos\\PISPraktika1 \u2014 \u043A\u043E\u043F\u0438\u044F\\game\\Level.cs",
+              "RelativeToolTip": "game\\Level.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T07:36:37.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u043B\u0438\u0437\u0430\u0432\u0435\u0442\u0430\\source\\repos\\PISPraktika1 \u2014 \u043A\u043E\u043F\u0438\u044F\\game\\Program.cs",
+              "RelativeDocumentMoniker": "game\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0415\u043B\u0438\u0437\u0430\u0432\u0435\u0442\u0430\\source\\repos\\PISPraktika1 \u2014 \u043A\u043E\u043F\u0438\u044F\\game\\Program.cs",
+              "RelativeToolTip": "game\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwCQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T07:21:09.253Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
